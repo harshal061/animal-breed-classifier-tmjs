@@ -1,8 +1,6 @@
-// ================================
-// ADD YOUR MODEL LINK HERE
-// ================================
+
 const MODEL_URL = "https://teachablemachine.withgoogle.com/models/yG6h-Pef5/";
-// ================================
+
 
 let model;
 
